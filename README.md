@@ -108,7 +108,7 @@ inv beers serve
 
 To start orders' endpoints run (default at localhost:5003):
 ```bash
-inv orders setup
+inv orders serve
 ```
 
 ## Micro services interfaces
